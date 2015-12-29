@@ -1,0 +1,25 @@
+{
+  "name": "multi-compare",
+  "version": "0.0.0",
+  "description": "Compose array sort compare functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parshap/multi-compare.git"
+  },
+  "keywords": [
+    "sort"
+  ],
+  "author": "Parsha Pourkhomami",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/parshap/multi-compare/issues"
+  },
+  "homepage": "https://github.com/parshap/multi-compare#readme",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
